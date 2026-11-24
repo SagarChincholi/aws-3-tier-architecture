@@ -66,7 +66,3 @@ Author
 Sagar Chincholi
 
 BCA Graduate | Cloud Architecture and DevOps
-
-GitHub: "SagarChincholi" (https://github.com/SagarChincholi)
-
-LinkedIn: "Sagar Chincholi" (https://www.linkedin.com/in/sagar-chincholi-ab548630a/)
